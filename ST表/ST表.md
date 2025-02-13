@@ -1,6 +1,6 @@
 ![img](https://img2024.cnblogs.com/blog/3476421/202501/3476421-20250124223758330-1943682220.png)
 
-![image-20250125134317626](C:\Users\Tomorrowland\AppData\Roaming\Typora\typora-user-images\image-20250125134317626.png)
+![](https://img2024.cnblogs.com/blog/3476421/202502/3476421-20250212223009858-1434595697.png)
 
 ```cpp
 #include<bits/stdc++.h>
